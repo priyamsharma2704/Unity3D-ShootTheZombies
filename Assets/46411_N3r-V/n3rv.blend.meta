@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 9fe5880c742d9d445b11ee6aa3897449
+timeCreated: 1484270808
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Circle_001
+    100004: Circle_002
+    100006: Circle_003
+    100008: crosshair
+    100010: Cube
+    100012: Cube_002
+    100014: Cube_003
+    100016: Cube_004
+    100018: Empty
+    100020: Holo
+    100022: N3r-V
+    100024: N3r-V_002
+    100026: //RootNode
+    100028: Plane_003
+    100030: Plane_004
+    100032: Seethru
+    100034: Text_004
+    100036: Text_005
+    100038: Text_006
+    100040: Text_007
+    400000: Circle
+    400002: Circle_001
+    400004: Circle_002
+    400006: Circle_003
+    400008: crosshair
+    400010: Cube
+    400012: Cube_002
+    400014: Cube_003
+    400016: Cube_004
+    400018: Empty
+    400020: Holo
+    400022: N3r-V
+    400024: N3r-V_002
+    400026: //RootNode
+    400028: Plane_003
+    400030: Plane_004
+    400032: Seethru
+    400034: Text_004
+    400036: Text_005
+    400038: Text_006
+    400040: Text_007
+    2300000: Circle
+    2300002: Circle_001
+    2300004: Circle_002
+    2300006: Circle_003
+    2300008: Cube
+    2300010: Cube_002
+    2300012: Cube_003
+    2300014: Cube_004
+    2300016: Holo
+    2300018: N3r-V
+    2300020: N3r-V_002
+    2300022: Plane_003
+    2300024: Plane_004
+    2300026: Seethru
+    2300028: Text_004
+    2300030: Text_005
+    2300032: Text_006
+    2300034: Text_007
+    3300000: Circle
+    3300002: Circle_001
+    3300004: Circle_002
+    3300006: Circle_003
+    3300008: Cube
+    3300010: Cube_002
+    3300012: Cube_003
+    3300014: Cube_004
+    3300016: Holo
+    3300018: N3r-V
+    3300020: N3r-V_002
+    3300022: Plane_003
+    3300024: Plane_004
+    3300026: Seethru
+    3300028: Text_004
+    3300030: Text_005
+    3300032: Text_006
+    3300034: Text_007
+    4300000: Holo
+    4300002: N3r-V_002
+    4300004: Seethru
+    4300006: Cube_004
+    4300008: Cube_003
+    4300010: Circle_001
+    4300012: Circle
+    4300014: Text_007
+    4300016: Text_006
+    4300018: Text_005
+    4300020: Text_004
+    4300022: Circle_003
+    4300024: Plane_004
+    4300026: Cube
+    4300028: Cube_002
+    4300030: Circle_002
+    4300032: Plane_003
+    4300034: N3r-V
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
